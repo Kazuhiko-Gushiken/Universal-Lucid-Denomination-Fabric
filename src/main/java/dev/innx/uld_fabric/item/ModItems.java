@@ -23,6 +23,7 @@ public class ModItems {
     public static final Item MITHRIL_ULD = registerItem("mithril_uld", new Item(new FabricItemSettings()));
     public static final Item ULD_PRONUNCIATION_MUSIC_DISC = registerItem("uld_pronunciation_music_disc",
             new MusicDiscItem(7, ModSounds.ULD_PRONUNCIATION, new FabricItemSettings().maxCount(1), 52));
+    public static final Item AK_COIN = registerItem("ak_coin", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(COPPER_ULD);
