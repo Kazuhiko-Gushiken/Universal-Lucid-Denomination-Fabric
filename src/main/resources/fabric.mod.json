@@ -11,12 +11,15 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/uld_fabric/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"dev.innx.uld_fabric.UniversalLucidDenominationFabric"
+		],
+		"client": [
+			"dev.innx.uld_fabric.UniversalLucidDenominationFabricClient"
 		],
 		"fabric-datagen": [
 			"dev.innx.uld_fabric.UniversalLucidDenominationFabricDataGenerator"

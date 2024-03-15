@@ -1,0 +1,14 @@
+{
+  "item.uld_fabric.copper_uld": "Copper Uld",
+  "item.uld_fabric.bronze_uld": "Bronze Uld",
+  "item.uld_fabric.silver_uld": "Silver Uld",
+  "item.uld_fabric.gold_uld": "Gold Uld",
+  "item.uld_fabric.platinum_uld": "Platinum Uld",
+  "item.uld_fabric.palladium_uld": "Palladium Uld",
+  "item.uld_fabric.mithril_uld": "Mithril Uld",
+
+  "itemgroup.uld_fabric": "Uld",
+
+  "item.uld_fabric.uld_pronunciation_music_disc": "Uld Pronunciation Music Disc",
+  "item.uld_fabric.uld_pronunciation_music_disc.desc": "Pronounce it right and it rolls off the tongue."
+}

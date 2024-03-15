@@ -1,0 +1,10 @@
+{
+  "uld_pronunciation": {
+    "sounds": [
+      {
+        "name": "uld_fabric:uld_pronunciation",
+        "stream": true
+      }
+    ]
+  }
+}
