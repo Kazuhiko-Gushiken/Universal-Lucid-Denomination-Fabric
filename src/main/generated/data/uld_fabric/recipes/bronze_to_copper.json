@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "uld_fabric:bronze_uld"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "uld_fabric:copper_uld"
+  }
+}

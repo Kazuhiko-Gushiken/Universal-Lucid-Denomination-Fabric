@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "uld_fabric:palladium_uld"
+    },
+    {
+      "item": "uld_fabric:palladium_uld"
+    },
+    {
+      "item": "uld_fabric:palladium_uld"
+    },
+    {
+      "item": "uld_fabric:palladium_uld"
+    },
+    {
+      "item": "uld_fabric:palladium_uld"
+    },
+    {
+      "item": "uld_fabric:palladium_uld"
+    }
+  ],
+  "result": {
+    "item": "uld_fabric:mithril_uld"
+  }
+}

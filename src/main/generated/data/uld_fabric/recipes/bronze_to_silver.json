@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "uld_fabric:bronze_uld"
+    },
+    {
+      "item": "uld_fabric:bronze_uld"
+    },
+    {
+      "item": "uld_fabric:bronze_uld"
+    },
+    {
+      "item": "uld_fabric:bronze_uld"
+    },
+    {
+      "item": "uld_fabric:bronze_uld"
+    },
+    {
+      "item": "uld_fabric:bronze_uld"
+    }
+  ],
+  "result": {
+    "item": "uld_fabric:silver_uld"
+  }
+}
